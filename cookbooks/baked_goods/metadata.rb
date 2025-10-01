@@ -1,0 +1,6 @@
+name             'baked_goods'
+maintainer       'Keri Melich'
+maintainer_uid   '@themightymuppet'
+license          'All rights reserved'
+description      'Configure the cookies'
+version          '20250930.1'
