@@ -1,0 +1,11 @@
+{
+  "chef_type": "environment",
+  "cookbook_versions": {
+    "baked_goods": "= 3.14"
+},
+  "default_attributes": {},
+  "description": "production cookbooks",
+  "json_class": "Chef::Environment",
+  "name": "production",
+  "override_attributes": {}
+}
